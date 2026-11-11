@@ -1,5 +1,5 @@
 ---
-title: "Prénom Nom"
+title: "Anne-Sophie Gagné"
 embed-resources: true
 ---
 
@@ -15,6 +15,6 @@ Court paragraphe de présentation académique ou professionnelle.
 
 ## Liens
 
-- GitHub: <https://github.com/identifiant>
-- Site publié: <https://identifiant.github.io/nom-du-depot/>
+- GitHub: <https://github.com/asgag11>
+- Site publié: <https://asgag11.github.io/site_personnel/>
 - Portfolio public ou trace publique, si autorisé: <lien>

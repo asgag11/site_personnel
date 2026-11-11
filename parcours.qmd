@@ -5,7 +5,9 @@ embed-resources: true
 
 ## Parcours
 
-Décrire brièvement le parcours ou les intérêts professionnels.
+J'ai commencé mon parcours en génie électrique. J'ai même fait un stage dand ce domaine où j'ai travaillé sur un projet de prothèse de main myoélectrique. 
+
+Je me suis ensuite réorienté vers la statistique et la science des données, puisque ça correspondait mieux à mes intérêts.
 
 ## Compétences
 

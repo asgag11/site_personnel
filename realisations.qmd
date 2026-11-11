@@ -5,11 +5,11 @@ embed-resources: true
 
 ## Réalisation 1: trace du portfolio
 
-Contexte:
+Contexte: 
 
-Production:
+Production: Création de graphiques
 
-Outils:
+Outils: ggplot
 
 Validation ou vérification:
 
